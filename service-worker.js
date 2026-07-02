@@ -1,4 +1,4 @@
-var CACHE_NAME = "keuangan-saya-v1";
+var CACHE_NAME = "keuangan-fian-v1";
 var ASSETS = ["./", "./index.html", "./app.js", "./manifest.json", "./icons/icon-192.png", "./icons/icon-512.png"];
 
 self.addEventListener("install", function (event) {
@@ -28,3 +28,4 @@ self.addEventListener("fetch", function (event) {
     })
   );
 });
+
