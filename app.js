@@ -148,7 +148,7 @@
     root.innerHTML =
       '<div class="phone">' +
         '<div class="header">' +
-          '<div><div class="eyebrow">Dompet Pribadi</div><div class="header-title">Keuangan Saya</div></div>' +
+          '<div><div class="eyebrow">Dompet Pribadi</div><div class="header-title">Keuangan Fian</div></div>' +
           '<div class="wallet-badge">' + ICONS.wallet + '</div>' +
         '</div>' +
         '<div class="body scroll" id="body">' + bodyHtml + '</div>' +
