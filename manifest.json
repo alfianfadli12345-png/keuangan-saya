@@ -1,7 +1,7 @@
 {
-  "name": "Keuangan Saya",
+  "name": "Keuangan Fian",
   "short_name": "Keuangan",
-  "description": "Aplikasi pencatatan keuangan pribadi",
+  "description": "Aplikasi pencatatan keuangan fian",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
